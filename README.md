@@ -1,5 +1,9 @@
 # GitHub User Activity CLI (Java + Spring Boot)
 A simple CLI application to fetch and display recent GitHub user activity using the GitHub API, built with Java and Spring Boot.
+
+# Project Origin
+This project is based on the GitHub User Activity CLI challenge from roadmap.sh. The original challenge involves building a command line interface to fetch and display GitHub user activity, helping developers practice working with APIs, handling JSON data, and building CLI applications. [Project page](https://roadmap.sh/projects/github-user-activity)
+
 ## Prerequisites
 - Java 17+ installed  
 - Maven installed (or use the Maven wrapper `mvnw` / `mvnw.cmd`)  
